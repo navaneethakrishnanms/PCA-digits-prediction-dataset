@@ -66,4 +66,4 @@ This app is deployed on Hugging Face Spaces with Gradio as the frontend framewor
 
 🤝 Contributing
 
-Pull requests are welcome! If you’d like to improve the model or UI, feel free to fork and submit
+Pull requests are welcome! If you’d like to improve the model or UI, feel free to fork and submit# Digits__predictor_using_PCA
